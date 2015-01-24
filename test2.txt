@@ -1,0 +1,7 @@
+<html>
+	<head>
+	</head>
+	<body>
+		Gitバージョン管理テスト
+	</body>
+</html>
