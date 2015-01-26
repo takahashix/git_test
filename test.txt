@@ -3,5 +3,6 @@
 	</head>
 	<body>
 		Gitバージョン管理テスト
+		こっちはmaster
 	</body>
 </html>
