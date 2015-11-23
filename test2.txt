@@ -7,5 +7,7 @@
 		flow_test3にて修正を行う。
 		flow_test3はマージし、flow_test2にて修正を行いマージを行った際にどのような挙動になる確認。
 		flow_test2での修正。flow_test3の修正はマージしていない。
+		flow_testにて上記の修正をrebase。そこから修正を加える。
+		flow_test3にてrebaseする前に修正を行う。rebaseした際にどのような競合が起きるかチェック
 	</body>
 </html>
