@@ -6,5 +6,6 @@
 		マージテスト
 		flow_test3にて修正を行う。
 		flow_test3はマージし、flow_test2にて修正を行いマージを行った際にどのような挙動になる確認。
+		flow_test2での修正。flow_test3の修正はマージしていない。
 	</body>
 </html>
