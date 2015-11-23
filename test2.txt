@@ -4,6 +4,6 @@
 	<body>
 		Gitバージョン管理テスト
 		マージテスト
-		すけべ濱口
+		flow_test2での修正。flow_test3の修正はマージしていない。
 	</body>
 </html>
