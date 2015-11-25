@@ -4,5 +4,6 @@
 	<body>
 		Gitバージョン管理テスト
 		こっちはmaster
+		motoshitaがのっとりました
 	</body>
 </html>
